@@ -1,0 +1,6 @@
+INSERT INTO EXAM (ID, CATEGORY, EXAM_DATE, IS_PASSED, NAME)
+VALUES(10001,  'Software',  sysdate(), false, 'DAP 1');
+INSERT INTO EXAM (ID, CATEGORY, EXAM_DATE, IS_PASSED, NAME)
+VALUES(10002,  'Hardware', sysdate(), false, 'BS');
+INSERT INTO EXAM (ID, CATEGORY, EXAM_DATE, IS_PASSED, NAME)
+VALUES(10003,  'Mathematik', sysdate(), false, 'MafI2');
